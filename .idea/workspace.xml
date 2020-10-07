@@ -47,12 +47,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1iX5HWxRfTIp0zi5Pc68H6VZl2H" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
@@ -208,6 +212,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="92" y="122" width="1182" height="554" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1602044174959">
       <screen x="0" y="30" width="1366" height="738" />
@@ -221,22 +228,22 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="529" y="285" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.30.1366.738@0.30.1366.738" timestamp="1602041849994" />
-    <state width="1313" height="176" key="GridCell.Tab.0.bottom" timestamp="1602047248166">
+    <state width="1313" height="176" key="GridCell.Tab.0.bottom" timestamp="1602052119379">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1313" height="176" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1602047248166" />
-    <state width="1313" height="176" key="GridCell.Tab.0.center" timestamp="1602047248165">
+    <state width="1313" height="176" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1602052119379" />
+    <state width="1313" height="176" key="GridCell.Tab.0.center" timestamp="1602052119379">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1313" height="176" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1602047248165" />
-    <state width="1313" height="176" key="GridCell.Tab.0.left" timestamp="1602047248165">
+    <state width="1313" height="176" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1602052119379" />
+    <state width="1313" height="176" key="GridCell.Tab.0.left" timestamp="1602052119379">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1313" height="176" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1602047248165" />
-    <state width="1313" height="176" key="GridCell.Tab.0.right" timestamp="1602047248166">
+    <state width="1313" height="176" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1602052119379" />
+    <state width="1313" height="176" key="GridCell.Tab.0.right" timestamp="1602052119379">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1313" height="176" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1602047248166" />
+    <state width="1313" height="176" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1602052119379" />
     <state width="1313" height="221" key="GridCell.Tab.1.bottom" timestamp="1602043937715">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
